@@ -1,0 +1,29 @@
+,Inspiration,,Envy,,ICB,Social Undermining,
+Variable,b,SE,b,SE,b SE,b,SE
+Intercept,5.50 **,0.06,2.32 **,0.06,4.12 ** 0.26,1.77 **,0.17
+Controls,,,,,,,
+"orientation
+Social comparison",-.03,0.04,.19 **,0.05,.03 0.03,-.01,0.02
+"Perceived
+extraversion",.17 *,0.07,.10,0.08,.09 0.05,-.05,0.03
+"Coworker positive
+events",.36 **,0.07,-.02,0.08,.09 0.05,.02,0.03
+Focal Variables,,,,,,,
+Capitalization,.03,0.05,-.02,0.06,.09 * 0.04,.04,0.02
+Competition,-.25 **,0.06,.49 **,0.07,.04 0.05,.16 **,0.03
+Capitalization,-.12 *,0.05,.12 *,0.06,-.01 0.04,.02,0.03
+X Competition,,,,,,,
+Mediators,,,,,,,
+Inspiration,-,-,-,-,.38 ** 0.04,-.13 **,0.03
+Envy,-,-,-,-,-.10 ** 0.04,.11 **,0.03
+R²,.20,,.25,,.33,.30,
+Indirect Effects,,,,,via Inspiration,via Envy,
+"Unconditional
+indirect effect",|,,|,,".01 , SE = 0.02 , 95 % CI [ -.026 , .050 ]","—.01 , SE = 0.01 , 95 % CI","[ -.016 , .011 ]"
+Indirect effect,|,,|,,"-.03 , SE = 0.03 , 95 % CI [ -.084 , .022 ]",".01 , SE = 0.01 , 95 % CI","[ -.006 , .031 ]"
+"( high
+competition )",,,,,,,
+Indirect effect,|,,|,,".05 , SE = 0.03 , 95 % CI [ .005 , .105 ]","-.01 , SE = 0.01 , 95 % CI","[ -.034 , .001 ]"
+"( low
+competition )
+Difference",-,,-,,"-.08 , 95 % CI [ -.156 , - . 013 ]",".03 , 95 % CI [ .001",", .053 ]"

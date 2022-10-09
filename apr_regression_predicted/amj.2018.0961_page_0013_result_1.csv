@@ -1,0 +1,28 @@
+,Change Goal Congruence,Linear Slope of Voice,Quadratic Slope of Voice
+Variables,Model 6,Model 7,Model 8
+Constant,4.74 **,0.08,-0.10 *
+Task Routinization,0.00,0.01,-0.01
+Work Experience,0.00,0.03 *,0.00
+Employee Conscientiousness ( EC ),0.07,-0.02,0.00
+Supervisor Conscientiousness ( SC ),0.12 *,0.02,0.01
+EC²,-0.01,-0.01,0.00
+EC X SC,-0.08,0.00,0.00
+SC²,-0.12 *,-0.02,0.00
+LMX T1,,,
+LMX T2,,,
+LMX T3,,,
+Linear Slope of LMX,,0.10 *,
+Quadratic Slope of LMX,,,0.09 **
+Employee proactive personality ( E ),0.07,0.08 **,0.01 *
+Supervisor proactive personality ( S ),0.15 *,0.12 **,0.01 *
+E²,-0.05,-0.03 **,0.00
+EXS,0.17 **,0.10 **,0.02 **
+S²,-0.08,-0.01,0.00
+Change goal congruence,,0.05 **,0.02 **
+Congruence ( E = S ) line,,,
+Slope,0.22 **,0.20 **,0.02 **
+Curvature,0.04,0.06 **,0.02 *
+Incongruence ( E = : -S ) line,,,
+Slope,0.08,0.04,0.00
+Curvature,-0.30 **,-0.14 **,-0.02 *
+F for the three quadratic terms,5.18 **,13.44 **,3.36 *

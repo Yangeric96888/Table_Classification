@@ -1,0 +1,25 @@
+,Inspiration,,Envy,,ICB,,Social,Undermining
+Variable,Y,SE,Y,SE,Y,SE,Y,SE
+Intercept,2.42 **,0.08,1.53 **,0.07,4.20 **,0.29,1.00 **,0.11
+Controls,,,,,,,,
+Day,-.03,0.02,-.02,0.01,-.01,0.02,-.01,0.01
+Sine,.09,0.05,-.05,0.04,.05,0.08,-.02,0.03
+Cosine,-.10,0.07,.01,0.04,-.09,0.09,.01,0.03
+Social comparison orientation,.07,0.08,.01,0.05,-,-,-,-
+Coworker positive events,.14,0.13,-.08,0.06,-,-,-,-
+Focal Variables,,,,,,,,
+Capitalization,3 ** .88 *,0.10,.18 **,0.05,-.09,0.11,-.02,0.04
+Competition,-.03,0.07,.12 **,0.04,-,-,-,-
+Capitalization X Competition,-.13 *,0.07,.13 **,0.04,-,-,-,-
+Mediators,,,,,,,,
+Inspiration,-,-,-,-,.28 **,0.06,-.04 *,0.02
+Envy,-,-,-,-,-.17,0.11,.25 **,0.08
+Pseudo R²,25 %,,7 %,,7 %,,24 %,
+Indirect Effects,,,,,via,Inspiration,via Envy,
+Unconditional indirect effect,-,,-,,".25 , SE = 0.06 ,",,".05 , SE = 0.02 ,",
+,,,,,95 % CI [ .136,", .371 ]","95 % CI [ .013 ,",.088 ]
+Indirect effect,-,,-,,".19 , SE = 0.06 ,",,".09 , SE = 0.04 ,",
+( high competition ),,,,,95 % CI [ .087,", .318 ]","95 % CI [ .028 ,",.176 )
+Indirect effect,-,,-,,".30 , SE = 0.08 ,",,"-.01 , SE = 0.02",","
+( low competition ),,,,,95 % CI [ .164,", .462 ]",95 % CI [ -.041,", .034 )"
+Difference,-,,-,,".11 , 95 % CI [","-.079 , .305 ]",".09 , 95 % CI [ .020",", .184 ]"
